@@ -8,7 +8,7 @@ Discover our AI-curated list of the best fertility clinics.
 
 [IVF Czech Republic](https://ivfon.com/location/czech-republic/)
 
-This website, findbestclinic.com, is designed to help users find the best fertility clinics, specifically focusing on IVF and egg donation services in Greece. Key features include:
+This website, findbestclinic.com, is designed to help users find the best fertility clinics, specifically focusing on IVF and egg donation services. Key features include:
 	
 1.	Search and Comparison: Users can select specific treatments and search by country or city to find clinics tailored to their needs.
 	
